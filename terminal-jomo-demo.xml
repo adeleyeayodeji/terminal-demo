@@ -27,13 +27,13 @@
 
 <channel>
 	<title>JOMO Demo Content</title>
-	<link>https://tplugtest.com</link>
+	<link>https://tplug.terminal.africa</link>
 	<description></description>
 	<pubDate>Tue, 21 May 2024 09:35:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://tplugtest.com</wp:base_site_url>
-	<wp:base_blog_url>https://tplugtest.com</wp:base_blog_url>
+	<wp:base_site_url>https://tplug.terminal.africa</wp:base_site_url>
+	<wp:base_blog_url>https://tplug.terminal.africa</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[terminalafrica]]></wp:author_login><wp:author_email><![CDATA[udi@terminal.africa]]></wp:author_email><wp:author_display_name><![CDATA[terminalafrica]]></wp:author_display_name><wp:author_first_name><![CDATA[Blessing]]></wp:author_first_name><wp:author_last_name><![CDATA[Ojediran]]></wp:author_last_name></wp:author>
 
@@ -179,19 +179,19 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>https://tplugtest.com/wp-content/uploads/2024/05/cropped-speedgo-32x32.png</url>
+	<url>https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-speedgo-32x32.png</url>
 	<title>JOMO Demo Content</title>
-	<link>https://tplugtest.com</link>
+	<link>https://tplug.terminal.africa</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
-		<link>https://tplugtest.com/woocommerce-placeholder/</link>
+		<link>https://tplug.terminal.africa/woocommerce-placeholder/</link>
 		<pubDate>Tue, 12 Mar 2024 10:43:21 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/03/woocommerce-placeholder.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/03/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -209,7 +209,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -221,10 +221,10 @@
 							</item>
 					<item>
 		<title><![CDATA[a8e87a_5ce0f064acb34254bc2400b332e26c30~mv2]]></title>
-		<link>https://tplugtest.com/?attachment_id=14</link>
+		<link>https://tplug.terminal.africa/?attachment_id=14</link>
 		<pubDate>Tue, 12 Mar 2024 10:49:18 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/03/a8e87a_5ce0f064acb34254bc2400b332e26c30mv2.webp</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/03/a8e87a_5ce0f064acb34254bc2400b332e26c30mv2.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -242,7 +242,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/03/a8e87a_5ce0f064acb34254bc2400b332e26c30mv2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/03/a8e87a_5ce0f064acb34254bc2400b332e26c30mv2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/03/a8e87a_5ce0f064acb34254bc2400b332e26c30mv2.webp]]></wp:meta_value>
@@ -254,10 +254,10 @@
 							</item>
 					<item>
 		<title><![CDATA[blue-cotton-tshirt-man-1_1400x]]></title>
-		<link>https://tplugtest.com/?attachment_id=16</link>
+		<link>https://tplug.terminal.africa/?attachment_id=16</link>
 		<pubDate>Tue, 12 Mar 2024 10:52:05 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/03/blue-cotton-tshirt-man-1_1400x.webp</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/03/blue-cotton-tshirt-man-1_1400x.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -275,7 +275,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/03/blue-cotton-tshirt-man-1_1400x.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/03/blue-cotton-tshirt-man-1_1400x.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/03/blue-cotton-tshirt-man-1_1400x.webp]]></wp:meta_value>
@@ -287,10 +287,10 @@
 							</item>
 					<item>
 		<title><![CDATA[man-brown-knitted-polo-1_1400x]]></title>
-		<link>https://tplugtest.com/?attachment_id=18</link>
+		<link>https://tplug.terminal.africa/?attachment_id=18</link>
 		<pubDate>Tue, 12 Mar 2024 10:53:11 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/03/man-brown-knitted-polo-1_1400x.webp</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/03/man-brown-knitted-polo-1_1400x.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -308,7 +308,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/03/man-brown-knitted-polo-1_1400x.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/03/man-brown-knitted-polo-1_1400x.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/03/man-brown-knitted-polo-1_1400x.webp]]></wp:meta_value>
@@ -320,7 +320,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Default Kit]]></title>
-		<link>https://tplugtest.com/?elementor_library=default-kit-2</link>
+		<link>https://tplug.terminal.africa/?elementor_library=default-kit-2</link>
 		<pubDate>Mon, 11 Mar 2024 08:23:29 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress/?p=6</guid>
@@ -368,7 +368,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Default Kit]]></title>
-		<link>https://tplugtest.com/?elementor_library=default-kit-2-2</link>
+		<link>https://tplug.terminal.africa/?elementor_library=default-kit-2-2</link>
 		<pubDate>Fri, 01 Mar 2024 12:37:33 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress3/?p=11</guid>
@@ -488,10 +488,10 @@
 							</item>
 					<item>
 		<title><![CDATA[1bd11a6ecdc5416c5dce58d0525f59f1]]></title>
-		<link>https://tplugtest.com/1bd11a6ecdc5416c5dce58d0525f59f1/</link>
+		<link>https://tplug.terminal.africa/1bd11a6ecdc5416c5dce58d0525f59f1/</link>
 		<pubDate>Thu, 16 May 2024 11:43:20 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/1bd11a6ecdc5416c5dce58d0525f59f1.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/1bd11a6ecdc5416c5dce58d0525f59f1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -509,7 +509,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/1bd11a6ecdc5416c5dce58d0525f59f1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/1bd11a6ecdc5416c5dce58d0525f59f1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/1bd11a6ecdc5416c5dce58d0525f59f1.png]]></wp:meta_value>
@@ -521,10 +521,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot 2024-05-16 at 12.42.38 PM]]></title>
-		<link>https://tplugtest.com/screenshot-2024-05-16-at-12-42-38-pm/</link>
+		<link>https://tplug.terminal.africa/screenshot-2024-05-16-at-12-42-38-pm/</link>
 		<pubDate>Thu, 16 May 2024 12:09:25 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/Screenshot-2024-05-16-at-12.42.38 PM.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/Screenshot-2024-05-16-at-12.42.38 PM.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -542,7 +542,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/Screenshot-2024-05-16-at-12.42.38 PM.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/Screenshot-2024-05-16-at-12.42.38 PM.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/Screenshot-2024-05-16-at-12.42.38 PM.png]]></wp:meta_value>
@@ -554,10 +554,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview]]></title>
-		<link>https://tplugtest.com/screenshot_2024-05-16_at_12-42-38_pm-removebg-preview/</link>
+		<link>https://tplug.terminal.africa/screenshot_2024-05-16_at_12-42-38_pm-removebg-preview/</link>
 		<pubDate>Thu, 16 May 2024 12:10:18 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -575,7 +575,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></wp:meta_value>
@@ -587,12 +587,12 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></title>
-		<link>https://tplugtest.com/screenshot_2024-05-16_at_12-42-38_pm-removebg-preview/cropped-screenshot_2024-05-16_at_12-42-38_pm-removebg-preview-png/</link>
+		<link>https://tplug.terminal.africa/screenshot_2024-05-16_at_12-42-38_pm-removebg-preview/cropped-screenshot_2024-05-16_at_12-42-38_pm-removebg-preview-png/</link>
 		<pubDate>Thu, 16 May 2024 12:11:18 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></content:encoded>
+		<content:encoded><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>378</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 12:11:18]]></wp:post_date>
@@ -608,7 +608,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/cropped-Screenshot_2024-05-16_at_12.42.38_PM-removebg-preview.png]]></wp:meta_value>
@@ -628,10 +628,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot 2024-05-17 at 8.35.59 AM]]></title>
-		<link>https://tplugtest.com/screenshot-2024-05-17-at-8-35-59-am/</link>
+		<link>https://tplug.terminal.africa/screenshot-2024-05-17-at-8-35-59-am/</link>
 		<pubDate>Fri, 17 May 2024 07:36:13 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.35.59 AM.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.35.59 AM.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -649,7 +649,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.35.59 AM.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/Screenshot-2024-05-17-at-8.35.59 AM.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/Screenshot-2024-05-17-at-8.35.59 AM.png]]></wp:meta_value>
@@ -661,10 +661,10 @@
 							</item>
 					<item>
 		<title><![CDATA[55b2fc92a066c31c0b92b60e7e0ae058]]></title>
-		<link>https://tplugtest.com/55b2fc92a066c31c0b92b60e7e0ae058/</link>
+		<link>https://tplug.terminal.africa/55b2fc92a066c31c0b92b60e7e0ae058/</link>
 		<pubDate>Fri, 17 May 2024 07:38:29 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -682,7 +682,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg]]></wp:meta_value>
@@ -694,10 +694,10 @@
 							</item>
 					<item>
 		<title><![CDATA[speedgo]]></title>
-		<link>https://tplugtest.com/speedgo/</link>
+		<link>https://tplug.terminal.africa/speedgo/</link>
 		<pubDate>Mon, 20 May 2024 04:25:09 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/speedgo.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/speedgo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -715,7 +715,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/speedgo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/speedgo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/speedgo.png]]></wp:meta_value>
@@ -727,12 +727,12 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-speedgo.png]]></title>
-		<link>https://tplugtest.com/speedgo/cropped-speedgo-png/</link>
+		<link>https://tplug.terminal.africa/speedgo/cropped-speedgo-png/</link>
 		<pubDate>Mon, 20 May 2024 04:25:46 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/cropped-speedgo.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-speedgo.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/cropped-speedgo.png]]></content:encoded>
+		<content:encoded><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-speedgo.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>434</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-20 04:25:46]]></wp:post_date>
@@ -748,7 +748,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/cropped-speedgo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/cropped-speedgo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/cropped-speedgo.png]]></wp:meta_value>
@@ -764,10 +764,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Frame 2380]]></title>
-		<link>https://tplugtest.com/frame-2380/</link>
+		<link>https://tplug.terminal.africa/frame-2380/</link>
 		<pubDate>Mon, 20 May 2024 04:28:20 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/Frame-2380.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/Frame-2380.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -785,7 +785,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/Frame-2380.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/Frame-2380.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/Frame-2380.png]]></wp:meta_value>
@@ -797,10 +797,10 @@
 							</item>
 					<item>
 		<title><![CDATA[photo-1522529599102-193c0d76b5b6]]></title>
-		<link>https://tplugtest.com/photo-1522529599102-193c0d76b5b6/</link>
+		<link>https://tplug.terminal.africa/photo-1522529599102-193c0d76b5b6/</link>
 		<pubDate>Mon, 20 May 2024 04:32:25 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/photo-1522529599102-193c0d76b5b6.avif</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/photo-1522529599102-193c0d76b5b6.avif</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -818,7 +818,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/photo-1522529599102-193c0d76b5b6.avif]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/photo-1522529599102-193c0d76b5b6.avif]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/photo-1522529599102-193c0d76b5b6.avif]]></wp:meta_value>
@@ -830,10 +830,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Aramex-logo-1-1]]></title>
-		<link>https://tplugtest.com/terminal-hub-home/aramex-logo-1-1/</link>
+		<link>https://tplug.terminal.africa/terminal-hub-home/aramex-logo-1-1/</link>
 		<pubDate>Tue, 21 May 2024 09:25:59 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/Aramex-logo-1-1.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/Aramex-logo-1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -851,7 +851,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/Aramex-logo-1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/Aramex-logo-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/Aramex-logo-1-1.png]]></wp:meta_value>
@@ -863,10 +863,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Fedex-Logo-1-1]]></title>
-		<link>https://tplugtest.com/terminal-hub-home/fedex-logo-1-1/</link>
+		<link>https://tplug.terminal.africa/terminal-hub-home/fedex-logo-1-1/</link>
 		<pubDate>Tue, 21 May 2024 09:26:01 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/Fedex-Logo-1-1.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/Fedex-Logo-1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -884,7 +884,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/Fedex-Logo-1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/Fedex-Logo-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/Fedex-Logo-1-1.png]]></wp:meta_value>
@@ -896,10 +896,10 @@
 							</item>
 					<item>
 		<title><![CDATA[654a1843c78fe7d5e0199d96_UPSSSS-1-1]]></title>
-		<link>https://tplugtest.com/terminal-hub-home/654a1843c78fe7d5e0199d96_upssss-1-1/</link>
+		<link>https://tplug.terminal.africa/terminal-hub-home/654a1843c78fe7d5e0199d96_upssss-1-1/</link>
 		<pubDate>Tue, 21 May 2024 09:26:03 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -917,7 +917,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png]]></wp:meta_value>
@@ -929,10 +929,10 @@
 							</item>
 					<item>
 		<title><![CDATA[654a1808ebbedd57ef441997_dhl-1-1]]></title>
-		<link>https://tplugtest.com/terminal-hub-home/654a1808ebbedd57ef441997_dhl-1-1/</link>
+		<link>https://tplug.terminal.africa/terminal-hub-home/654a1808ebbedd57ef441997_dhl-1-1/</link>
 		<pubDate>Tue, 21 May 2024 09:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/wp-content/uploads/2024/05/654a1808ebbedd57ef441997_dhl-1-1.png</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/wp-content/uploads/2024/05/654a1808ebbedd57ef441997_dhl-1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -950,7 +950,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://tplugtest.com/wp-content/uploads/2024/05/654a1808ebbedd57ef441997_dhl-1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://tplug.terminal.africa/wp-content/uploads/2024/05/654a1808ebbedd57ef441997_dhl-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/05/654a1808ebbedd57ef441997_dhl-1-1.png]]></wp:meta_value>
@@ -962,10 +962,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Shop]]></title>
-		<link>https://tplugtest.com/shop/</link>
+		<link>https://tplug.terminal.africa/shop/</link>
 		<pubDate>Tue, 12 Mar 2024 10:43:21 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/shop/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -986,10 +986,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Default Kit]]></title>
-		<link>https://tplugtest.com/?elementor_library=default-kit</link>
+		<link>https://tplug.terminal.africa/?elementor_library=default-kit</link>
 		<pubDate>Thu, 16 May 2024 06:57:10 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/?p=30</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1042,7 +1042,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://tplugtest.com/</link>
+		<link>https://tplug.terminal.africa/</link>
 		<pubDate>Tue, 27 Feb 2024 10:13:06 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress/?page_id=109</guid>
@@ -1053,17 +1053,17 @@
                     T-Hub helps with booking shipments, collecting payments, and sending updates to customers.                </p>
                     <a href="#">Book Shipment</a>
                     <a href="#" style="border: transparent;">Track Shipment</a>
-                                    <img src="https://tplugtest.com/wp-content/uploads/2024/05/654a1808ebbedd57ef441997_dhl-1-1.png" alt="Partner">
-                                    <img src="https://tplugtest.com/wp-content/uploads/2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png" alt="Partner">
-                                    <img src="https://tplugtest.com/wp-content/uploads/2024/05/Fedex-Logo-1-1.png" alt="Partner">
-                                    <img src="https://tplugtest.com/wp-content/uploads/2024/05/Aramex-logo-1-1.png" alt="Partner">
+                                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/05/654a1808ebbedd57ef441997_dhl-1-1.png" alt="Partner">
+                                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/05/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png" alt="Partner">
+                                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/05/Fedex-Logo-1-1.png" alt="Partner">
+                                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/05/Aramex-logo-1-1.png" alt="Partner">
                     <h2>
                         A digital hub for logistics businesses                    </h2>
                     <p>
                         T-Hub is the best way to take your business to the next level. It streamlines business operations,  and enhances your brand image.                    </p>
                                                     <a href="/features/" title="Features">
                                 Features                            </a>
-                    <img src="https://tplugtest.com/wp-content/uploads/2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg" alt="A digital hub for logistics businesses">
+                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/05/55b2fc92a066c31c0b92b60e7e0ae058.jpeg" alt="A digital hub for logistics businesses">
             <h2>
                 Customer Review            </h2>
             <p>
@@ -1071,11 +1071,11 @@
 in profits! It helped us reduce shipping costs, and improve our brand image.            </p>
             <p>
                 Sunday Lawal (ThePep Logistics).            </p>
-                <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/star-filled.svg" alt="">
-                <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/star-filled.svg" alt="">
-                <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/star-filled.svg" alt="">
-                <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/star.svg" alt="">
-                <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/star.svg" alt="">
+                <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/star-filled.svg" alt="">
+                <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/star-filled.svg" alt="">
+                <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/star-filled.svg" alt="">
+                <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/star.svg" alt="">
+                <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/star.svg" alt="">
                     <h2>
                         Contact                    </h2>
                     <p>
@@ -1115,7 +1115,7 @@ in profits! It helped us reduce shipping costs, and improve our brand image.    
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"8d4f1e3","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"d0ccc6d","elType":"widget","settings":{"hero_title":"Designed for Logistics Businesses","hero_description":"T-Hub helps with booking shipments, collecting payments, and sending updates to customers.","hero_background":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/05\/1bd11a6ecdc5416c5dce58d0525f59f1.png","id":348,"size":"","source":"library","alt":""}},"elements":[],"widgetType":"terminal-hero"}],"isInner":false},{"id":"04f3215","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"81b03b0","elType":"widget","settings":{"partners":[{"partner_image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/05\/654a1808ebbedd57ef441997_dhl-1-1.png","id":493,"alt":"","source":"library","size":""},"_id":"3817b31"},{"_id":"89eb2be","partner_image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/05\/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png","id":492,"size":"","alt":"","source":"library"}},{"_id":"de0b664","partner_image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/05\/Fedex-Logo-1-1.png","id":491,"size":"","alt":"","source":"library"}},{"_id":"cb4a338","partner_image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/05\/Aramex-logo-1-1.png","id":490,"size":"","alt":"","source":"library"}}]},"elements":[],"widgetType":"terminal-partners"}],"isInner":false},{"id":"20794e7","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"9f0ed86","elType":"widget","settings":{"title":"A digital hub for logistics businesses","description":"T-Hub is the best way to take your business to the next level. It streamlines business operations,  and enhances your brand image.","url_title":"Features","background_color":"#F7941E","title_color":"#FFFFFF","description_color":"#FFFFFF","url_title_color":"#000000","url_button_bg":"#FFFFFF","url_button_bg_hover":"#000000","image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/05\/55b2fc92a066c31c0b92b60e7e0ae058.jpeg","id":428,"size":"","alt":"","source":"library"},"url":{"url":"\/features\/","is_external":true,"nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"terminal-services"}],"isInner":false},{"id":"74b7569","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"2cc6127","elType":"widget","settings":{"review_title":"Customer Review","review_description":"Thanks to T-Hub, our logistics business has experienced a significant boost\nin profits! It helped us reduce shipping costs, and improve our brand image.","review_author":"Sunday Lawal (ThePep Logistics)."},"elements":[],"widgetType":"terminal-review"}],"isInner":false},{"id":"ee9858d","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"da4a88f","elType":"widget","settings":{"title":"Contact","description":"We're here to help! If you have any questions or concerns, please don't hesitate to get in touch with us.","contact":"Contact us","background_color":"#FDEEDD"},"elements":[],"widgetType":"terminal-getintouch"}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"8d4f1e3","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"d0ccc6d","elType":"widget","settings":{"hero_title":"Designed for Logistics Businesses","hero_description":"T-Hub helps with booking shipments, collecting payments, and sending updates to customers.","hero_background":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/05\/1bd11a6ecdc5416c5dce58d0525f59f1.png","id":348,"size":"","source":"library","alt":""}},"elements":[],"widgetType":"terminal-hero"}],"isInner":false},{"id":"04f3215","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"81b03b0","elType":"widget","settings":{"partners":[{"partner_image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/05\/654a1808ebbedd57ef441997_dhl-1-1.png","id":493,"alt":"","source":"library","size":""},"_id":"3817b31"},{"_id":"89eb2be","partner_image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/05\/654a1843c78fe7d5e0199d96_UPSSSS-1-1.png","id":492,"size":"","alt":"","source":"library"}},{"_id":"de0b664","partner_image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/05\/Fedex-Logo-1-1.png","id":491,"size":"","alt":"","source":"library"}},{"_id":"cb4a338","partner_image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/05\/Aramex-logo-1-1.png","id":490,"size":"","alt":"","source":"library"}}]},"elements":[],"widgetType":"terminal-partners"}],"isInner":false},{"id":"20794e7","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"9f0ed86","elType":"widget","settings":{"title":"A digital hub for logistics businesses","description":"T-Hub is the best way to take your business to the next level. It streamlines business operations,  and enhances your brand image.","url_title":"Features","background_color":"#F7941E","title_color":"#FFFFFF","description_color":"#FFFFFF","url_title_color":"#000000","url_button_bg":"#FFFFFF","url_button_bg_hover":"#000000","image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/05\/55b2fc92a066c31c0b92b60e7e0ae058.jpeg","id":428,"size":"","alt":"","source":"library"},"url":{"url":"\/features\/","is_external":true,"nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"terminal-services"}],"isInner":false},{"id":"74b7569","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"2cc6127","elType":"widget","settings":{"review_title":"Customer Review","review_description":"Thanks to T-Hub, our logistics business has experienced a significant boost\nin profits! It helped us reduce shipping costs, and improve our brand image.","review_author":"Sunday Lawal (ThePep Logistics)."},"elements":[],"widgetType":"terminal-review"}],"isInner":false},{"id":"ee9858d","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"da4a88f","elType":"widget","settings":{"title":"Contact","description":"We're here to help! If you have any questions or concerns, please don't hesitate to get in touch with us.","contact":"Contact us","background_color":"#FDEEDD"},"elements":[],"widgetType":"terminal-getintouch"}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -1124,7 +1124,7 @@ in profits! It helped us reduce shipping costs, and improve our brand image.    
 							</item>
 					<item>
 		<title><![CDATA[What we offer]]></title>
-		<link>https://tplugtest.com/services/</link>
+		<link>https://tplug.terminal.africa/services/</link>
 		<pubDate>Wed, 28 Feb 2024 08:12:23 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress/?page_id=190</guid>
@@ -1135,17 +1135,17 @@ in profits! It helped us reduce shipping costs, and improve our brand image.    
                         Our Services                    </h2>
                     <p>
                         We offer a wide range of services to meet your needs                    </p>
-                    <img src="https://tplugtest.com/wp-content/uploads/2024/03/demo-service.png" alt="Our Services">
+                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/03/demo-service.png" alt="Our Services">
                     <h2>
                         Our Services                    </h2>
                     <p>
                         We offer a wide range of services to meet your needs                    </p>
-                    <img src="https://tplugtest.com/wp-content/uploads/2024/03/demo-service.png" alt="Our Services">
+                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/03/demo-service.png" alt="Our Services">
                     <h2>
                         Our Services                    </h2>
                     <p>
                         We offer a wide range of services to meet your needs                    </p>
-                    <img src="https://tplugtest.com/wp-content/uploads/2024/03/demo-service.png" alt="Our Services">]]></content:encoded>
+                    <img src="https://tplug.terminal.africa/wp-content/uploads/2024/03/demo-service.png" alt="Our Services">]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-28 08:12:23]]></wp:post_date>
@@ -1175,7 +1175,7 @@ in profits! It helped us reduce shipping costs, and improve our brand image.    
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"0861e53","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"6d336c4","elType":"widget","settings":{"header_bg_color":"#FDEEDD","header_bg_image":{"url":"http:\/\/localhost:8888\/wordpress\/wp-content\/uploads\/2023\/12\/400163070_6735633919888143_4044392186665359644_n.jpg","id":66,"size":"","alt":"","source":"library"},"__globals__":{"title_color":""}},"elements":[],"widgetType":"terminal-innerpage-header"}],"isInner":false},{"id":"0d0570d","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"b47945b","elType":"widget","settings":{"title":"Our Services","description":"We offer a wide range of services to meet your needs","url_title":"View all services","background_color":"#FFFFFF","image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/03\/demo-service.png","id":"","size":"","source":"url"},"url_button_bg":"#F7941E","url_button_bg_hover":"#000000","url_title_color_hover":"#FFFFFF","enable_link":"","image_size":{"unit":"%","size":66,"sizes":[]},"image_size_tablet":{"unit":"%","size":"","sizes":[]},"image_size_mobile":{"unit":"%","size":"","sizes":[]},"title_type":"terminal-small"},"elements":[],"widgetType":"terminal-services"},{"id":"de45065","elType":"widget","settings":{"title":"Our Services","description":"We offer a wide range of services to meet your needs","url_title":"View all services","background_color":"#FFFFFF","image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/03\/demo-service.png","id":"","size":"","source":"url"},"url_button_bg":"#F7941E","url_button_bg_hover":"#000000","url_title_color_hover":"#FFFFFF","enable_link":"","image_size":{"unit":"%","size":66,"sizes":[]},"image_size_tablet":{"unit":"%","size":"","sizes":[]},"image_size_mobile":{"unit":"%","size":"","sizes":[]},"column_direction":"row-reverse","title_type":"terminal-small"},"elements":[],"widgetType":"terminal-services"},{"id":"4178ca5","elType":"widget","settings":{"title":"Our Services","description":"We offer a wide range of services to meet your needs","url_title":"View all services","background_color":"#FFFFFF","image":{"url":"https:\/\/tplugtest.com\/wp-content\/uploads\/2024\/03\/demo-service.png","id":"","size":"","source":"url"},"url_button_bg":"#F7941E","url_button_bg_hover":"#000000","url_title_color_hover":"#FFFFFF","enable_link":"","image_size":{"unit":"%","size":66,"sizes":[]},"image_size_tablet":{"unit":"%","size":"","sizes":[]},"image_size_mobile":{"unit":"%","size":"","sizes":[]},"title_type":"terminal-small"},"elements":[],"widgetType":"terminal-services"}],"isInner":false},{"id":"b8c17a5","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"0861e53","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"6d336c4","elType":"widget","settings":{"header_bg_color":"#FDEEDD","header_bg_image":{"url":"http:\/\/localhost:8888\/wordpress\/wp-content\/uploads\/2023\/12\/400163070_6735633919888143_4044392186665359644_n.jpg","id":66,"size":"","alt":"","source":"library"},"__globals__":{"title_color":""}},"elements":[],"widgetType":"terminal-innerpage-header"}],"isInner":false},{"id":"0d0570d","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[{"id":"b47945b","elType":"widget","settings":{"title":"Our Services","description":"We offer a wide range of services to meet your needs","url_title":"View all services","background_color":"#FFFFFF","image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/03\/demo-service.png","id":"","size":"","source":"url"},"url_button_bg":"#F7941E","url_button_bg_hover":"#000000","url_title_color_hover":"#FFFFFF","enable_link":"","image_size":{"unit":"%","size":66,"sizes":[]},"image_size_tablet":{"unit":"%","size":"","sizes":[]},"image_size_mobile":{"unit":"%","size":"","sizes":[]},"title_type":"terminal-small"},"elements":[],"widgetType":"terminal-services"},{"id":"de45065","elType":"widget","settings":{"title":"Our Services","description":"We offer a wide range of services to meet your needs","url_title":"View all services","background_color":"#FFFFFF","image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/03\/demo-service.png","id":"","size":"","source":"url"},"url_button_bg":"#F7941E","url_button_bg_hover":"#000000","url_title_color_hover":"#FFFFFF","enable_link":"","image_size":{"unit":"%","size":66,"sizes":[]},"image_size_tablet":{"unit":"%","size":"","sizes":[]},"image_size_mobile":{"unit":"%","size":"","sizes":[]},"column_direction":"row-reverse","title_type":"terminal-small"},"elements":[],"widgetType":"terminal-services"},{"id":"4178ca5","elType":"widget","settings":{"title":"Our Services","description":"We offer a wide range of services to meet your needs","url_title":"View all services","background_color":"#FFFFFF","image":{"url":"https:\/\/tplug.terminal.africa\/wp-content\/uploads\/2024\/03\/demo-service.png","id":"","size":"","source":"url"},"url_button_bg":"#F7941E","url_button_bg_hover":"#000000","url_title_color_hover":"#FFFFFF","enable_link":"","image_size":{"unit":"%","size":66,"sizes":[]},"image_size_tablet":{"unit":"%","size":"","sizes":[]},"image_size_mobile":{"unit":"%","size":"","sizes":[]},"title_type":"terminal-small"},"elements":[],"widgetType":"terminal-services"}],"isInner":false},{"id":"b8c17a5","elType":"container","settings":{"flex_direction":"column","css_classes":"terminal-elementor-container"},"elements":[],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -1192,7 +1192,7 @@ in profits! It helped us reduce shipping costs, and improve our brand image.    
 							</item>
 					<item>
 		<title><![CDATA[Get in Touch]]></title>
-		<link>https://tplugtest.com/get-in-touch/</link>
+		<link>https://tplug.terminal.africa/get-in-touch/</link>
 		<pubDate>Fri, 01 Mar 2024 04:47:41 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress/?page_id=286</guid>
@@ -1203,16 +1203,16 @@ in profits! It helped us reduce shipping costs, and improve our brand image.    
                 Get in touch            </h3>
             <ul>
                 <li>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/phone-icon.svg" alt="">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/phone-icon.svg" alt="">
                         <a href="tel:+234 916 228 1413">+234 916 228 1413</a>
                 </li>
                 <li>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/email.svg" alt="">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/email.svg" alt="">
                         <a href="mailto:help@terminal.africa">
                             help@terminal.africa                        </a>
                 </li>
                 <li>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets/img/address.svg" alt="">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets/img/address.svg" alt="">
                         <p style="font-size: 16px;">
                             Eridan Space
 Obafemi Awolowo Way,
@@ -1271,7 +1271,7 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[FAQ]]></title>
-		<link>https://tplugtest.com/faq/</link>
+		<link>https://tplug.terminal.africa/faq/</link>
 		<pubDate>Wed, 06 Mar 2024 14:16:28 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress3/?page_id=322</guid>
@@ -1280,22 +1280,22 @@ Alausa, Ikeja, Lagos.                        </p>
                 FAQ            </h2>
                         <h3>
                             Question 1                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-close.svg" alt="Question 1">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-close.svg" alt="Question 1">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                         <h3>
                             Question 2                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 2">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 2">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                         <h3>
                             Question 3                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 3">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 3">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                         <h3>
                             Question 4                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 4">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 4">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                 <a href="#">
@@ -1342,7 +1342,7 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Terms of use]]></title>
-		<link>https://tplugtest.com/terms-of-use/</link>
+		<link>https://tplug.terminal.africa/terms-of-use/</link>
 		<pubDate>Wed, 06 Mar 2024 14:17:43 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress3/?page_id=325</guid>
@@ -1351,7 +1351,7 @@ Alausa, Ikeja, Lagos.                        </p>
                 Terms of use            </h2>
                         <h3>
                             About Account                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-close.svg" alt="About Account">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-close.svg" alt="About Account">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Et<b></b> <b></b>praesent<b></b> <b></b>tristique<b></b> <b></b>porttitor<b></b> <b></b>duis<b></b> <b></b>vivamus<b></b> <b></b>facilisis<b></b> <b></b>lorem<b></b>. <b></b>Magna<b></b> <b></b>id<b></b> <b></b>platea<b></b> <b></b>aliquet<b></b> <b></b>vel<b></b> <b></b>nibh<b></b>. <b></b>Vestibulum<b></b> <b></b>gravida<b></b> <b></b>tristique<b></b> <b></b>habitant<b></b> <b></b>fringilla<b></b> <b></b>urna<b></b>. <b></b>Tempor<b></b> <b></b>sed<b></b> <b></b>porttitor<b></b> <b></b>fringilla<b></b> <b></b>nec<b></b> <b></b>tincidunt<b></b> <b></b>at<b></b> <b></b>non<b></b> <b></b>ac<b></b>. <b></b>Id<b></b> <b></b>eget<b></b> <b></b>est<b></b> <b></b>quis<b></b> <b></b>ut<b></b> <b></b>adipiscing<b></b>. <b></b>Nibh<b></b> <b></b>diam<b></b> <b></b>ut<b></b> <b></b>quis<b></b> <b></b>suspendisse<b></b> <b></b>cras<b></b> <b></b>est<b></b> <b></b>ut<b></b> <b></b>egestas<b></b>. <b></b>Sed<b></b> <b></b>consequat<b></b> <b></b>integer<b></b> <b></b>augue<b></b> <b></b>id<b></b> <b></b>quisque<b></b> <b></b>aliquam<b></b> <b></b>purus<b></b>.<br />
 <b></b>Praesent<b></b> <b></b>feugiat<b></b> <b></b>vulputate<b></b> <b></b>est<b></b> <b></b>sed<b></b> <b></b>mauris<b></b>. <b></b>Arcu<b></b> <b></b>justo<b></b> <b></b>auctor<b></b> <b></b>in<b></b> <b></b>semper<b></b> <b></b>felis<b></b>. <b></b>Sed<b></b> <b></b>arcu<b></b> <b></b>in<b></b> <b></b>lorem<b></b> <b></b>non<b></b> <b></b>convallis<b></b> <b></b>turpis<b></b>. <b></b>Sed<b></b> <b></b>enim<b></b> <b></b>vitae<b></b> <b></b>sit<b></b> <b></b>proin<b></b> <b></b>aliquam<b></b> <b></b>nibh<b></b> <b></b>consectetur<b></b>. <b></b>Tellus<b></b> <b></b>auctor<b></b> <b></b>nibh<b></b> <b></b>et<b></b> <b></b>tincidunt<b></b> <b></b>faucibus<b></b>. <b></b>Amet<b></b> <b></b>ut<b></b> <b></b>et<b></b> <b></b>augue<b></b> <b></b>varius<b></b> <b></b>consequat<b></b> <b></b>ac<b></b> <b></b>adipiscing<b></b> <b></b>eleifend<b></b> <b></b>tortor<b></b>. <b></b>Pellentesque<b></b> <b></b>faucibus<b></b> <b></b>porta<b></b> <b></b>luctus<b></b> <b></b>aliquam<b></b> <b></b>pretium<b></b>. <b></b>Egestas<b></b> <b></b>integer<b></b> <b></b>sem<b></b> <b></b>consequat<b></b> <b></b>quis<b></b> <b></b>vulputate<b></b> <b></b>ligula<b></b> <b></b>purus<b></b> <b></b>nibh<b></b> <b></b>eu<b></b>. <b></b>Ipsum<b></b> <b></b>morbi<b></b> <b></b>ut<b></b> <b></b>viverra<b></b> <b></b>nisl<b></b>. <b></b>Vestibulum<b></b> <b></b>sed<b></b> <b></b>nibh<b></b> <b></b>ultricies<b></b> <b></b>ac<b></b> <b></b>cursus<b></b>. <b></b>Elementum<b></b> <b></b>eu<b></b> <b></b>arcu<b></b> <b></b>viverra<b></b> <b></b>eget<b></b>. <b></b>Aliquet<b></b> <b></b>ligula<b></b> <b></b>tempus<b></b> <b></b>ultricies<b></b> <b></b>et<b></b> <b></b>sed<b></b> <b></b>aliquam<b></b> <b></b>luctus<b></b> <b></b>ante<b></b>. <b></b>Turpis<b></b> <b></b>turpis<b></b> <b></b>ac<b></b> <b></b>nec<b></b> <b></b>orci<b></b> <b></b>scelerisque<b></b> <b></b>non<b></b>. <b></b>Parturient<b></b> <b></b>quam<b></b> <b></b>pulvinar<b></b> <b></b>bibendum<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>tincidunt<b></b> <b></b>odio<b></b> <b></b>etiam<b></b> <b></b>nisl<b></b>.<br />
@@ -1360,22 +1360,22 @@ Alausa, Ikeja, Lagos.                        </p>
 <b></b>Pellentesque<b></b> <b></b>diam<b></b> <b></b>ornare<b></b> <b></b>netus<b></b> <b></b>ut<b></b> <b></b>tortor<b></b> <b></b>condimentum<b></b>. <b></b>Aliquam<b></b> <b></b>et<b></b> <b></b>volutpat<b></b> <b></b>sagittis<b></b> <b></b>vel<b></b>. <b></b>Donec<b></b> <b></b>vestibulum<b></b> <b></b>id<b></b> <b></b>lacinia<b></b> <b></b>vitae<b></b> <b></b>proin<b></b> <b></b>mollis<b></b> <b></b>eget<b></b> <b></b>magna<b></b> <b></b>curabitur<b></b>. <b></b>Ipsum<b></b> <b></b>tempor<b></b> <b></b>sed<b></b> <b></b>mattis<b></b> <b></b>fermentum<b></b>. <b></b>Mi<b></b> <b></b>nullam<b></b> <b></b>ultrices<b></b> <b></b>ac<b></b> <b></b>aliquam<b></b> <b></b>accumsan<b></b> <b></b>eros<b></b> <b></b>convallis<b></b>. <b></b>Gravida<b></b> <b></b>metus<b></b> <b></b>morbi<b></b> <b></b>netus<b></b> <b></b>donec<b></b> <b></b>morbi<b></b> <b></b>natoque<b></b>. <b></b>Consectetur<b></b> <b></b>urna<b></b> <b></b>nec<b></b> <b></b>vivamus<b></b> <b></b>hendrerit<b></b> <b></b>suspendisse<b></b> <b></b>ridiculus<b></b> <b></b>fringilla<b></b> <b></b>quam<b></b>. <b></b>In<b></b> <b></b>venenatis<b></b> <b></b>consectetur<b></b> <b></b>volutpat<b></b> <b></b>bibendum<b></b> <b></b>malesuada<b></b> <b></b>pulvinar<b></b>. <b></b>Consectetur<b></b> <b></b>vitae<b></b> <b></b>imperdiet<b></b> <b></b>dis<b></b> <b></b>morbi<b></b>. <b></b>Sit<b></b> <b></b>elementum<b></b> <b></b>sollicitudin<b></b> <b></b>aliquam<b></b> <b></b>turpis<b></b> <b></b>nisi<b></b> <b></b>faucibus<b></b>. <b></b>Placerat<b></b> <b></b>eget<b></b> <b></b>quis<b></b> <b></b>nec<b></b> <b></b>adipiscing<b></b> <b></b>sit<b></b> <b></b>consequat<b></b>. <b></b>Pretium<b></b> <b></b>amet<b></b> <b></b>ultrices<b></b> <b></b>sed<b></b> <b></b>porttitor<b></b> <b></b>egestas<b></b> <b></b>libero<b></b> <b></b>massa<b></b> <b></b>tincidunt<b></b>. <b></b>Nisl<b></b> <b></b>odio<b></b> <b></b>cras<b></b> <b></b>etiam<b></b> <b></b>tortor<b></b> <b></b>vitae<b></b> <b></b>metus<b></b> <b></b>mollis<b></b> <b></b>imperdiet<b></b> <b></b>quis<b></b>. <b></b>Consequat<b></b> <b></b>magna<b></b> <b></b>viverra<b></b> <b></b>libero<b></b> <b></b>sem<b></b> <b></b>id<b></b> <b></b>et<b></b> <b></b>neque<b></b> <b></b>faucibus<b></b> <b></b>turpis<b></b>.                        </p>
                         <h3>
                             Fees And Returns                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Fees And Returns">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Fees And Returns">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                         <h3>
                             Humane Behaviour                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Humane Behaviour">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Humane Behaviour">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                         <h3>
                             Legal Issues                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Legal Issues">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Legal Issues">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                         <h3>
                             Account Canellation                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Account Canellation">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Account Canellation">
                         <p style="color:black;">
                             <b></b>Lorem<b></b> <b></b>ipsum<b></b> <b></b>dolor<b></b> <b></b>sit<b></b> <b></b>amet<b></b> <b></b>consectetur<b></b>. <b></b>Eu<b></b> <b></b>pulvinar<b></b> <b></b>laoreet<b></b> <b></b>aliquet<b></b> <b></b>maecenas<b></b> <b></b>nulla<b></b> <b></b>orci<b></b> <b></b>eu<b></b> <b></b>amet<b></b> <b></b>non<b></b>. <b></b>Quis<b></b> <b></b>malesuada<b></b> <b></b>amet<b></b> <b></b>nec<b></b> <b></b>non<b></b> <b></b>sed<b></b> <b></b>diam<b></b> <b></b>auctor<b></b>. <b></b>Massa<b></b> <b></b>in<b></b> <b></b>suspendisse<b></b> <b></b>malesuada<b></b> <b></b>faucibus<b></b> <b></b>proin<b></b> <b></b>sit<b></b> <b></b>ultricies<b></b>. <b></b>Velit<b></b> <b></b>sit<b></b> <b></b>diam<b></b> <b></b>quis<b></b> <b></b>rhoncus<b></b> <b></b>risus<b></b> <b></b>congue<b></b>.                        </p>
                 <a href="#">
@@ -1422,7 +1422,7 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Privacy policy]]></title>
-		<link>https://tplugtest.com/privacy-policy-2/</link>
+		<link>https://tplug.terminal.africa/privacy-policy-2/</link>
 		<pubDate>Wed, 06 Mar 2024 14:18:02 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress3/?page_id=328</guid>
@@ -1431,12 +1431,12 @@ Alausa, Ikeja, Lagos.                        </p>
                 Privacy policy            </h2>
                         <h3>
                             Question 1                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-close.svg" alt="Question 1">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-close.svg" alt="Question 1">
                         <p style="color:black;">
                             <b></b>Answer<b></b> <b></b>1<b></b>                        </p>
                         <h3>
                             Question 2                        </h3>
-                        <img src="https://tplugtest.com/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 2">
+                        <img src="https://tplug.terminal.africa/wp-content/themes/terminal-africa-hub/assets//img/accordion-open.svg" alt="Question 2">
                         <p style="color:black;">
                             <b></b>Answer<b></b> <b></b>2<b></b>                        </p>
                 <a href="#">
@@ -1483,10 +1483,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[What Can It Do?]]></title>
-		<link>https://tplugtest.com/features/</link>
+		<link>https://tplug.terminal.africa/features/</link>
 		<pubDate>Thu, 16 May 2024 12:14:27 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/?page_id=381</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/?page_id=381</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2 style="color:#FFFFFF">
                 What Can It Do?            </h2>
@@ -1612,10 +1612,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Get Quotes]]></title>
-		<link>https://tplugtest.com/get-quotes/</link>
+		<link>https://tplug.terminal.africa/get-quotes/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/get-quotes/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/get-quotes/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1669,10 +1669,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Track Shipment]]></title>
-		<link>https://tplugtest.com/track-shipment/</link>
+		<link>https://tplug.terminal.africa/track-shipment/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/track-shipment/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/track-shipment/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1726,10 +1726,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Book Shipment]]></title>
-		<link>https://tplugtest.com/book-shipment/</link>
+		<link>https://tplug.terminal.africa/book-shipment/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/book-shipment/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/book-shipment/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1783,10 +1783,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Get Quotes]]></title>
-		<link>https://tplugtest.com/get-quotes-2/</link>
+		<link>https://tplug.terminal.africa/get-quotes-2/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/get-quotes-2/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/get-quotes-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1840,10 +1840,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://tplugtest.com/contact/</link>
+		<link>https://tplug.terminal.africa/contact/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/contact/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1897,10 +1897,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Features]]></title>
-		<link>https://tplugtest.com/features/</link>
+		<link>https://tplug.terminal.africa/features/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/features/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1954,10 +1954,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Features]]></title>
-		<link>https://tplugtest.com/features-2/</link>
+		<link>https://tplug.terminal.africa/features-2/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/features-2/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/features-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2011,10 +2011,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Contact us]]></title>
-		<link>https://tplugtest.com/contact-us/</link>
+		<link>https://tplug.terminal.africa/contact-us/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/contact-us/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/contact-us/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2068,10 +2068,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tplugtest.com/487/</link>
+		<link>https://tplug.terminal.africa/487/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/487/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/487/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2125,10 +2125,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tplugtest.com/488/</link>
+		<link>https://tplug.terminal.africa/488/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/488/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/488/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2182,10 +2182,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tplugtest.com/489/</link>
+		<link>https://tplug.terminal.africa/489/</link>
 		<pubDate>Tue, 21 May 2024 09:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/489/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/489/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2239,10 +2239,10 @@ Alausa, Ikeja, Lagos.                        </p>
 							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://tplugtest.com/hello-world/</link>
+		<link>https://tplug.terminal.africa/hello-world/</link>
 		<pubDate>Tue, 12 Mar 2024 10:42:50 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/?p=1</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
@@ -2282,10 +2282,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 					</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://tplugtest.com/navigation/</link>
+		<link>https://tplug.terminal.africa/navigation/</link>
 		<pubDate>Tue, 12 Mar 2024 10:42:51 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/2024/03/12/navigation/</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/2024/03/12/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2306,10 +2306,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Product One]]></title>
-		<link>https://tplugtest.com/product/product-one/</link>
+		<link>https://tplug.terminal.africa/product/product-one/</link>
 		<pubDate>Tue, 12 Mar 2024 10:49:26 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/?post_type=product&#038;p=13</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/?post_type=product&#038;p=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sample description]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sample description]]></excerpt:encoded>
@@ -2489,10 +2489,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Product Two]]></title>
-		<link>https://tplugtest.com/product/product-two/</link>
+		<link>https://tplug.terminal.africa/product/product-two/</link>
 		<pubDate>Tue, 12 Mar 2024 10:52:18 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/?post_type=product&#038;p=15</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/?post_type=product&#038;p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sample description]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sample description]]></excerpt:encoded>
@@ -2672,10 +2672,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Product Three]]></title>
-		<link>https://tplugtest.com/product/product-three/</link>
+		<link>https://tplug.terminal.africa/product/product-three/</link>
 		<pubDate>Tue, 12 Mar 2024 10:53:23 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
-		<guid isPermaLink="false">https://tplugtest.com/?post_type=product&#038;p=17</guid>
+		<guid isPermaLink="false">https://tplug.terminal.africa/?post_type=product&#038;p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sample description]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sample description]]></excerpt:encoded>
@@ -2855,7 +2855,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://tplugtest.com/hello-world-2/</link>
+		<link>https://tplug.terminal.africa/hello-world-2/</link>
 		<pubDate>Fri, 01 Mar 2024 11:34:55 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress3/?p=1</guid>
@@ -2898,7 +2898,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 					</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://tplugtest.com/navigation-2-2/</link>
+		<link>https://tplug.terminal.africa/navigation-2-2/</link>
 		<pubDate>Fri, 01 Mar 2024 11:34:56 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress3/2024/03/01/navigation/</guid>
@@ -2922,7 +2922,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 														</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://tplugtest.com/hello-world-3/</link>
+		<link>https://tplug.terminal.africa/hello-world-3/</link>
 		<pubDate>Mon, 11 Mar 2024 08:22:10 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress/?p=1</guid>
@@ -2965,7 +2965,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 					</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://tplugtest.com/navigation-2/</link>
+		<link>https://tplug.terminal.africa/navigation-2/</link>
 		<pubDate>Mon, 11 Mar 2024 08:22:11 +0000</pubDate>
 		<dc:creator><![CDATA[terminalafrica]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress/2024/03/11/navigation/</guid>
